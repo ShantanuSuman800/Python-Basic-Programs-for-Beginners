@@ -1,3 +1,9 @@
+# Basic-Python-Programs
+This repository consists of basic python programs which help getting familiar with python
+<br>
+Author - Anushika Chaubey
+
+
 # Basic Python Programs
 
 Welcome to the **Basic Python Programs** repository! This collection contains 250 Python scripts designed to help beginners and intermediate learners strengthen their programming skills.
