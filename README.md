@@ -1,7 +1,7 @@
 # Basic-Python-Programs
 This repository consists of basic python programs which help getting familiar with python
 <br>
-Author - Anushika Chaubey
+Author - Shantanu Suman
 
 
 # Basic Python Programs
@@ -27,10 +27,11 @@ All programs are organized in a single folder for easy access. Each script is na
 ## 🚀 How to Use
 
 Step 1. **Clone the repository**:
-    git clone https://github.com/Anushika789/Basic-Python-Programs.git
+    git clone https://github.com/ShantanuSuman800/Basic-Python-Programs-for-Beginners.git
 
 Step 2. **Navigate to the folder**:
-    cd Basic-Python-Programs
+    cd Basic-Python-Programs-for-Beginners
+    
 
 Step 3. **Run any script**:
     python filename.py
@@ -48,7 +49,7 @@ Feel free to fork this repo, suggest improvements, or add new programs!
 
 ## 📧 Contact
 
-For questions or suggestions, open an issue or contact [chaubeyanushika@gmail.com].
+For questions or suggestions, open an issue or contact [shantanusuman0@gmail.com].
 
 Happy Coding! 🚀
 
