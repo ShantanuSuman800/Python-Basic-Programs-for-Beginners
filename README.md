@@ -1,12 +1,12 @@
-# Basic-Python-Programs
+# Basic-Python-Programs-for-Beginners
 This repository consists of basic python programs which help getting familiar with python
 <br>
 Author - Shantanu Suman
 
 
-# Basic Python Programs
+# Basic Python Programs-for-Beginners
 
-Welcome to the **Basic Python Programs** repository! This collection contains 250 Python scripts designed to help beginners and intermediate learners strengthen their programming skills.
+Welcome to the **Basic Python Programs for beginners** repository! This collection contains 250 Python scripts designed to help beginners and intermediate learners strengthen their programming skills.
 
 ## 📂 Folder Structure
 
